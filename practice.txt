@@ -1,2 +1,2 @@
 practice git
-another day
+another day 30
